@@ -172,6 +172,13 @@ BloodBankManagementSystem
 <br>
 
 <img src="https://github.com/user-attachments/assets/cc55323a-2ee1-4ac6-8443-c1f60a4a6773" width="650"/>
+---
+
+### Database Table (BLOODBANK_TBL)
+<img width="1150" height="272" alt="image" src="https://github.com/user-attachments/assets/f9b7830a-0af9-4af3-a3d9-2e2f834c8572" />
+
+
+---
 
 
 ## Test Cases Covered
