@@ -49,9 +49,9 @@ The system is designed to:
 
 ---
 
-## 🗄 Database Design
+## Database Design
 
-### 📋 Table: BLOODBANK_TB
+### Table: BLOODBANK_TB
 
 | Column Name     | Data Type            | Description |
 |---------------|----------------------|------------|
@@ -63,7 +63,7 @@ The system is designed to:
 | CONTACT       | VARCHAR2(15 BYTE)    | Contact Number |
 | REMARKS       | VARCHAR2(100 BYTE)   | Additional Notes |
 
-### 🔢 Sequence: BLOODBANK_SEQ
+### Sequence: BLOODBANK_SEQ
 
 - **Start Value:** 10  
 - **Max Value:** 99  
@@ -144,29 +144,29 @@ BloodBankManagementSystem
 
 ---
 
-## 🖥 Output
+## Output
 
-### 🔹 Main Menu
+### Main Menu
 <img src="https://github.com/user-attachments/assets/16c0ecc8-c1e9-4469-b02b-f249c336b315" width="650"/>
 
 ---
 
-### 🔹 Add Donor Record
+### Add Donor Record
 <img src="https://github.com/user-attachments/assets/957c88e0-e9da-4e94-9232-1db482c23d0c" width="650"/>
 
 ---
 
-### 🔹 View Donor Record
+### View Donor Record
 <img src="https://github.com/user-attachments/assets/77c0704e-25f5-4a02-b135-c20550b5216b" width="650"/>
 
 ---
 
-### 🔹 Display Donor Details
+### Display Donor Details
 <img src="https://github.com/user-attachments/assets/025852dc-a534-41ec-9024-7e88164ebfa4" width="650"/>
 
 ---
 
-### 🔹 View All Donor Records
+### View All Donor Records
 <img src="https://github.com/user-attachments/assets/d80634a3-a4eb-435b-9640-d975cb2cb43f" width="650"/>
 
 <br>
